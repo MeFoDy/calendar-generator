@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "calendar-generator",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run generate",
+    "generate": "node index.js"
+  },
+  "dependencies": {
+    "ansi-colors": "^4.1.1",
+    "inquirer": "^7.1.0",
+    "pify": "^5.0.0",
+    "yamljs": "^0.3.0"
+  }
+}
