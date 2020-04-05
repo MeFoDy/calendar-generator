@@ -2,7 +2,7 @@
 
 CLI для генерации yml-описаний событий в [Календарь событий по фронтенду](https://github.com/web-standards-ru/calendar).
 
-Правки, замечания и идеи по развитию генератора — [в ишьях](https://github.com/mefody/calendar-generator/issues).
+Правки, замечания и идеи по развитию генератора — [в ишьях](https://github.com/web-standards-ru/calendar-generator/issues).
 
 ## Добавление события
 
@@ -17,4 +17,4 @@ CLI для генерации yml-описаний событий в [Кален
 - `npm start` для генерации события (как шорткат)
 
 ---
-[Авторы](https://github.com/mefody/calendar-generator/graphs/contributors), разработка [Никита Дубко](https://github.com/MeFoDy). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).
+[Авторы](https://github.com/web-standards-ru/calendar-generator/graphs/contributors), разработка [Никита Дубко](https://github.com/MeFoDy). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).
